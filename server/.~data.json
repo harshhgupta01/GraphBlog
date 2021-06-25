@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "password": "123123123",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Steve Smith",
+      "email": "steve@gmail.com",
+      "password": "123123123",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Sara Williams",
+      "email": "sara@gmail.com",
+      "password": "123123123",
+      "age": 32
+    },
+    {
+      "id": "4",
+      "name": "Tim Cook",
+      "email": "tim@gmail.com",
+      "password": "123123123",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "Keith Wilson",
+      "email": "keith@gmail.com",
+      "password": "123123123",
+      "age": 32
+    },
+    {
+      "id": "6",
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "password": "123123123",
+      "age": 34
+    },
+    {
+      "name": "Sam Wilson",
+      "email": "sam@gmail.com",
+      "age": 39,
+      "password": "123123123",
+      "id": "JzODYGs"
+    },
+    {
+      "name": "Tom Karen",
+      "email": "tom@gmail.com",
+      "age": 56,
+      "password": "123123123",
+      "id": "g1s2XHo"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "user_id": "2",
+      "title": "Blog 1",
+      "body": "Blog 1 Body",
+      "upVotes": [
+        "1"
+      ],
+      "downVotes": [
+        "1"
+      ]
+    },
+    {
+      "id": "2",
+      "user_id": "3",
+      "title": "Blog 2",
+      "body": "Blog 2 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "3",
+      "user_id": "4",
+      "title": "Blog 3 updated",
+      "body": "Blog 3 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "4",
+      "user_id": "5",
+      "title": "Blog 4",
+      "body": "Blog 4 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "5",
+      "user_id": "1",
+      "title": "Blog 5",
+      "body": "Blog 5 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "6",
+      "user_id": "2",
+      "title": "Blog 6",
+      "body": "Blog 6 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "7",
+      "user_id": "3",
+      "title": "Blog 7",
+      "body": "Blog 7 Body",
+      "upVotes": [],
+      "downVotes": []
+    },
+    {
+      "id": "8",
+      "user_id": "4",
+      "title": "Blog 8 updated 2",
+      "body": "Blog 8 updated Body",
+      "upVotes": [
+        "2",
+        "3",
+        "1",
+        "5"
+      ],
+      "downVotes": [
+        "5",
+        "6",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "title": "TITLE",
+      "body": "Body",
+      "user_id": "1",
+      "id": "vTUN6Fw"
+    },
+    {
+      "title": "Tab",
+      "body": "Body",
+      "user_id": "1",
+      "id": "bKW1Y1D"
+    },
+    {
+      "title": "hello1234",
+      "body": "eiaufgbiaufbai",
+      "user_id": "1",
+      "id": "-EJecvZ"
+    },
+    {
+      "title": "Assignment Title updated",
+      "body": "alva;vna;ebnvaeo;i updated",
+      "user_id": "1",
+      "id": "-AL9zln"
+    }
+  ]
+}
